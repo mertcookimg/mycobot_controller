@@ -1,5 +1,5 @@
-#ifndef _MYCOBOT_ROBOT_HW
-#define _MYCOBOT_ROBOT_HW
+#ifndef _MYCOBOT_ROBOT_HH_
+#define _MYCOBOT_ROBOT_HH_
 
 #include <ros/ros.h>
 #include <hardware_interface/joint_command_interface.h>
