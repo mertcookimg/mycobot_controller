@@ -4,7 +4,7 @@ unofficial mycobot controller package
 ## Environment
 |  |  |
 |---|---|
-| ROS | melodic |
+| ROS | noetic |
 | m5 atom | v2.4 |
 | pymycobot| v2.1.2|
 | pyserial| v3.5|
